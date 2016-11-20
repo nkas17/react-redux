@@ -6,3 +6,6 @@ starter project for react
 
 #follow these steps if you widh to create this from scratch
 
+#setup github
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+

@@ -104,7 +104,7 @@ import  from "webez-2.0";
 
 <hr/>
 
-## 
+## InsuredContainer
 
 Handles the insured information page.
 
@@ -120,7 +120,7 @@ Handles the insured information page.
 ### import
 
 ```jsx
-import  from "webez-2.0";
+import InsuredsContainer from "webez-2.0";
 ```
 
 <hr/>

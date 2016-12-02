@@ -11,6 +11,69 @@ the new web ez
 
 | Property | Type | Description | Default |
 | -------- | ---- | ----------- | ------- |
+| *locationPage* | object |  | 
+| *insuredPage* | object |  | 
+| *saveLocation* | func |  | 
+| *editLocation* | func |  | 
+| *deleteLocation* | func |  | 
+| *showLocationLightbox* | func |  | 
+| *hideLocationLightbox* | func |  | 
+
+### import
+
+```jsx
+import  from "webez-2.0";
+```
+
+<hr/>
+
+## 
+
+
+
+### Properties
+
+| Property | Type | Description | Default |
+| -------- | ---- | ----------- | ------- |
+| *history* | object |  | 
+| *locationPage* | object |  | 
+| *insuredPage* | object |  | 
+| *actions* | object |  | 
+
+### import
+
+```jsx
+import  from "webez-2.0";
+```
+
+<hr/>
+
+## 
+
+
+
+### Properties
+
+| Property | Type | Description | Default |
+| -------- | ---- | ----------- | ------- |
+| *insuredPage* | object |  | 
+
+### import
+
+```jsx
+import  from "webez-2.0";
+```
+
+<hr/>
+
+## 
+
+
+
+### Properties
+
+| Property | Type | Description | Default |
+| -------- | ---- | ----------- | ------- |
 | *name* | string |  | 
 | *lineOfBusiness* | string |  | 
 
@@ -32,6 +95,27 @@ import  from "webez-2.0";
 | -------- | ---- | ----------- | ------- |
 | *name* | string |  | 
 | *lineOfBusiness* | string |  | 
+
+### import
+
+```jsx
+import  from "webez-2.0";
+```
+
+<hr/>
+
+## 
+
+Handles the insured information page.
+
+### Properties
+
+| Property | Type | Description | Default |
+| -------- | ---- | ----------- | ------- |
+| *location* | object |  | 
+| *history* | object |  | 
+| *insuredPage* | object |  | 
+| *actions* | object |  | 
 
 ### import
 

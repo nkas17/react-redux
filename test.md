@@ -25,7 +25,7 @@ the new web ez
 import  from "webez-2.0";
 ```
 
-<hr/>
+***
 
 ## 
 
@@ -46,7 +46,7 @@ import  from "webez-2.0";
 import  from "webez-2.0";
 ```
 
-<hr/>
+***
 
 ## 
 
@@ -64,7 +64,7 @@ import  from "webez-2.0";
 import  from "webez-2.0";
 ```
 
-<hr/>
+***
 
 ## 
 
@@ -83,7 +83,7 @@ import  from "webez-2.0";
 import  from "webez-2.0";
 ```
 
-<hr/>
+***
 
 ## 
 
@@ -102,7 +102,7 @@ import  from "webez-2.0";
 import  from "webez-2.0";
 ```
 
-<hr/>
+***
 
 ## InsuredContainer
 
@@ -123,4 +123,4 @@ Handles the insured information page.
 import InsuredsContainer from "webez-2.0";
 ```
 
-<hr/>
+***
